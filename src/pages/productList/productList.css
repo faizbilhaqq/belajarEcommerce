@@ -1,0 +1,14 @@
+.product-preview img{
+    height: 240px;
+}
+
+.product{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 40px;
+}
+
+.product-preview{
+    justify-self: center;
+    text-align: center;
+}
